@@ -1,0 +1,114 @@
+.nav-bar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    display: flex;
+
+}
+
+.logo h1{
+    margin: 20px;
+}
+
+.nav-ul {
+    display: flex;
+}
+
+.nav-ul li{
+    margin: 25px;
+}
+
+.heading1 {
+    display: flex;
+}
+
+.info-text1 {
+    margin-top: 100px;
+}
+
+.info-text1 h1{
+    margin-bottom: 25px;
+}
+
+.info-text1 p{
+    margin-bottom: 25px;
+}
+
+
+.center-heading {
+
+    text-align: center;
+
+}
+
+.center-heading h1{
+    margin-bottom: 25px;
+}
+
+.cards1{
+    margin-top: 50px;
+}
+
+.cards1 ul{
+    display: flex;
+    justify-content: center;
+}
+
+.cards1 li{
+    width: 427px;
+}
+
+.icons{
+    display: block;
+    margin: auto;
+}
+
+.cards1 li h3,p{
+    text-align: center;
+    top: 176px;
+}
+
+.members {
+    display: flex;
+    margin: 30px;
+}
+
+.members-icon {
+    margin: auto;
+}
+
+.member1, .member2, .member3 {
+    display: flex;
+}
+
+.member1, .member2, .member3 img,p{
+    margin: 20px;
+
+}
+
+.info-text2{
+    width: 50%;
+}
+
+.jassir {
+    display: flex;
+    width: 100%;
+}
+
+.jassir-icon1 {
+    display: flex;
+}
+
+.jassir-data{
+    display: flex;
+}
+
+.jassir-button {
+    margin-left: 30px;
+}
+
+.jassir-neighbor {
+    width: 100%;
+}

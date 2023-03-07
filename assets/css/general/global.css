@@ -2,4 +2,6 @@
 @import url("./font.css");
 @import url("./responsive.css");
 
-
+* {
+    background: #e5e5e5;
+}
